@@ -6,7 +6,6 @@ for ii = 1:1:length(a)
         start = ii;
         break;
     end
-    
 end
 
 
